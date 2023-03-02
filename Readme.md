@@ -1,1 +1,1 @@
-Este es un archivo de preuba
+Este es un archivo de prueba
